@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🧸🔪
 
 <!--
 **AiNghiDiep1668/AiNghiDiep1668** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
